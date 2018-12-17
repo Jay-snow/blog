@@ -1,7 +1,6 @@
 <?php
 
-include("includes/config.php");
-include("includes/db.php");
+
 
 ?>
 
@@ -35,6 +34,7 @@ include("includes/db.php");
 		</header>
 
 		<p> This is the text in the article. </p>
+		<a href="#">Read More </a>
 	</article>
 
 </section>
